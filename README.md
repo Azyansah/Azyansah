@@ -1,7 +1,5 @@
 <h2 align="center">About Me</h2>
 
-<h4 align="center">Hp gw meledak bang</h2>
-
 ```Hi my name is Azyansah and I am still a student
 
 - I'm 15 y.o
