@@ -32,18 +32,11 @@
 
 <h2 align="center">Github Statistics 💤</h2>
 
-<p align="center">
-  <a href="https://github.com/azyansah"><img src="https://github-readme-stats.vercel.app/api?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-</p>
-
-<p align="center">
+<div align="center">
+<a href="Azyansah"><img src="https://komarev.com/ghpvc/?username=Azyansah&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Azyansah" /></a>
+<br>
+<a href="https://github.com/azyansah"><img src="https://github-readme-stats.vercel.app/api?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
 <a href="https://github.com/Azyansah"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azyansah&bg_color=071A2C" />
-</p>
-
-<p align="center">
 <a href="https://github.com/Azyansah/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Azyansah&theme=onedark" /></a>
-</p>
+</div>
