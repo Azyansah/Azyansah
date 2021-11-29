@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="center">About me? 🐒</h2>
 
 ```Hi my name is Azyansah and I am still a student
 
@@ -7,7 +7,7 @@
 - Programming is just my hobbies
 ```
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Connect with me 👋</h2>
 <p align="center">
   <a href="https://instagram.com/creallizy.xd" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
@@ -22,7 +22,15 @@
   </a>
 </p>
 
-<h2 align="center">My Stats</h2>
+<h2 align="center">Knowledges ✨</h2>
+
+<p align="center">
+  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="css" src="https://img.shields.io/badge/CSS-00000?style=for-the-badge&logo=css3">
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
+</p>
+
+<h2 align="center">Github Statistics 💤</h2>
 
 <p align="center">
   <a href="https://github.com/azyansah"><img src="https://github-readme-stats.vercel.app/api?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
