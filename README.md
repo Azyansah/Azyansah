@@ -1,4 +1,5 @@
-<h2 align="center">About me? 🐒</h2>
+<h2 align="center"><i><small>Welcome to my profile 👀</h2>
+<h3 align="center">About me?</h3>
 
 ```Hi my name is Azyansah and I am still a student
 
@@ -7,7 +8,7 @@
 - Programming is just my hobbies
 ```
 
-<h2 align="center">Connect with me 👋</h2>
+<h3 align="center">Connect with me 👋</h3>
 <p align="center">
   <a href="https://instagram.com/creallizy.xd" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
@@ -22,7 +23,7 @@
   </a>
 </p>
 
-<h2 align="center">Knowledges ✨</h2>
+<h3 align="center">Knowledges ✨</h3>
 
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,7 +31,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
 </p>
 
-<h2 align="center">Github Statistics 💤</h2>
+<h3 align="center">Github Statistics 💤</h3>
 
 <div align="center">
 <a href="Azyansah"><img src="https://komarev.com/ghpvc/?username=Azyansah&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Azyansah" /></a>
