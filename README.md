@@ -1,11 +1,14 @@
 <h2 align="center"><i><small>Welcome to my profile 👀</h2>
 <h3 align="center">About me?</h3>
 
-```Hi my name is Azyansah and I am still a student
+```rb
+Hi my name is Azyansah and
+I am still a student
 
-- I'm 15 y.o
-- I'm still using Javascript, html & css
-- Programming is just my hobbies
+• I'm 15 y.o
+• I'm currently focusing on Javascript,
+  html & css
+• Programming is just my hobbies
 ```
 
 <h3 align="center">Connect with me 👋</h3>
