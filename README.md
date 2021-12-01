@@ -11,7 +11,7 @@ I am still a student
 • Programming is just my hobbies
 ```
 
-<h3 align="center">Connect with me 👋</h3>
+<details><summary><b>Connect with me 👋</b></summary><br>
 <p align="center">
   <a href="https://instagram.com/creallizy.xd" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
@@ -26,7 +26,7 @@ I am still a student
   </a>
 </p>
 
-<h3 align="center">Knowledges ✨</h3>
+<details><summary><b>Knowledges ✨</b></summary><br>
 
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,8 +35,8 @@ I am still a student
   <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
 </p>
 
-<h3 align="center">Github Statistics 💤</h3>
-
+<details><summary><b>Github Statistics 💤</b></summary><br>
+  
 <div align="center">
 <a href="Azyansah"><img src="https://komarev.com/ghpvc/?username=Azyansah&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Azyansah" /></a>
 <br>
