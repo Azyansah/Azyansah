@@ -10,7 +10,7 @@ I am still a student
   html & css
 • Programming is just my hobbies
 ```
-
+<br>
 <details><summary><b>Connect with me 👋</b></summary><br>
 <p align="center">
   <a href="https://instagram.com/creallizy.xd" target="_blank">
