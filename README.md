@@ -33,7 +33,6 @@ I am still a student
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-00000?style=for-the-badge&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
-  <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
 </p>
 </details>
 
