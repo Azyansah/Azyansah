@@ -1,4 +1,6 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+profile)](https://git.io/typing-svg" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+profile" />
+</p>
 
 ```rb
 • Age : 15 y.o
