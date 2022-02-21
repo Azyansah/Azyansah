@@ -1,4 +1,4 @@
-### Hey I'm Zyy
+### Hey I'm Azyansah 👋
 
 ```rb
 • Age : 15 y.o
