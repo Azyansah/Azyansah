@@ -3,7 +3,7 @@
 </p>
 
 ```rb
-• Age : 15 y.o
+• Age : 16 y.o
 • I'm currently focusing on Front End
 • Programming is just my hobbies
 ```
