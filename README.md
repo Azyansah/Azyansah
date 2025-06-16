@@ -3,8 +3,8 @@
 </p>
 
 ```rb
-• Age : 18 y.o
-• I'm currently focusing on Front End
+• Age : 19 y.o
+• I'm currently focusing on ROBLOX STUDIO
 • Programming is just my hobbies
 ```
 
@@ -17,10 +17,6 @@ ___
   <a href="https://youtube.com/azyansahxd" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
-<a href="https://facebook.com/azyansahxd" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-
 ___
 
 <p>Github Statistics 💤</p>
