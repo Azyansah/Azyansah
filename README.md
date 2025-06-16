@@ -11,12 +11,13 @@
 ___
 
 <p>Connect with me 👋</p>
-  <a href="https://instagram.com/vzyy.__" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/azyansahxd" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
-  </a>
+<a href="https://instagram.com/vzyy.__" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+</a>
+<a href="https://youtube.com/azyansahxd" target="_blank">
+  <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+</a>
+  
 ___
 
 <p>Github Statistics 💤</p>
